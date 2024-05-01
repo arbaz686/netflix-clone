@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/arbaz686/NETFLIX-CLONE1.git
+git clone https://github.com/arbaz686/netflix-clone.git
 ```
 
 2. Install dependencies:
